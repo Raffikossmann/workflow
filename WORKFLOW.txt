@@ -1,3 +1,0 @@
-# workflow
-
-1. Programm Git Gui öffnen und eine local repository anlegen
